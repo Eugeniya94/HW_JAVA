@@ -23,7 +23,7 @@ public class Ex_1 {
         for (int i = 1; i <= num; i++) {
             res2 = res2 * i;
         }
-        System.out.printf("Факториал n!: %d \n", res2);
+        System.out.printf("Факториал числа: %d \n", res2);
         iScanner.close();
     }
 
